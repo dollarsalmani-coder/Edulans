@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EduLens</string>
+    <string name="tagline_subtitle">Visual Field Encyclopedia &amp; Offline Tutor</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_offline_library">Offline Library</string>
+    <string name="nav_accessibility">Global &amp; Voice</string>
+    <string name="search_bar_hint">Search or describe any object…</string>
+    <string name="action_capture_photo">Camera</string>
+    <string name="action_upload_photo">Upload</string>
+    <string name="action_voice_search">Voice Search</string>
+    <string name="action_analyze_object">Analyze Object</string>
+    <string name="sample_ai_notice_title">Sample Educational Mode Active</string>
+    <string name="sample_ai_notice_body">AI photo recognition and dynamic translation require Firebase. Showing curated sample educational guides.</string>
+    <string name="offline_mode_banner_title">Offline Accessibility Mode</string>
+    <string name="offline_mode_banner_body">Studying cached guides and on-device voice readout with zero mobile data.</string>
+    <string name="low_bandwidth_active">Low-Bandwidth Mode · Lightweight Compression</string>
+    <string name="voice_listen_all">Listen to Full Guide</string>
+    <string name="voice_stop">Stop Voice</string>
+    <string name="saved_offline_badge">Saved Offline</string>
+    <string name="save_for_offline">Save Offline</string>
+    <string name="action_share_study">Share &amp; Export</string>
+    <string name="share_chooser_title">Export Study Guide &amp; Images</string>
+    <string name="share_copied_snackbar">Study notes copied to clipboard.</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "name": "Remix EduLens",
+  "description": "Multilingual visual education app that identifies any photographed or uploaded object, explains its structure, educational facts, and practical solutions, supports voice readout and voice search, and saves learning history for offline access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

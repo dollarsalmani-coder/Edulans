@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="camera_cache" path="camera_temp/" />
+    <cache-path name="shared_exports" path="shared_exports/" />
+    <files-path name="study_images" path="study_images/" />
+</paths>
